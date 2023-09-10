@@ -1,2 +1,3 @@
 # learner
-exploring gti
+exploring github
+
